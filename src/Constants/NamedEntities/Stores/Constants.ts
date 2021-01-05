@@ -1,0 +1,3 @@
+export const SESSION_STORE = "SESSION_STORE";
+export const ROOT_STORE = "ROOT_STORE";
+export const CANDIDATE_STORE = "CANDIDATE_STORE";

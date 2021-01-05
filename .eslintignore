@@ -1,0 +1,9 @@
+__tests__
+node_modules
+scripts
+dist
+build
+types
+src/public
+webpack.config.js
+src/serviceWorker.ts
